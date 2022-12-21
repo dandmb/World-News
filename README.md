@@ -1,4 +1,4 @@
-# World_news
+# World News
 
 A Flutter project.
 
